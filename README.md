@@ -3,7 +3,7 @@ Un juego clásico desarrollado con HTML, CSS y JavaScript, totalmente interactiv
 Incluye un sistema de dificultades, conteo de rondas y gifs animados según el resultado.
 Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 
-#🚀 Características del juego
+## 🚀 Características del juego
 
 ✔️ Tres dificultades a elegir:
 .Fácil (aleatorio puro).
