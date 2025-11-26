@@ -4,7 +4,7 @@ Incluye un sistema de dificultades, conteo de rondas y gifs animados según el r
 Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 
 ## 🚀 Características del juego
-
+´
 ✔️ Tres dificultades a elegir:
 .Fácil (aleatorio puro).
 .Medio (30% de ventaja para la máquina).
@@ -15,7 +15,7 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 ✔️ Reset automático al terminar la partida.
 ✔️ Totalmente responsivo para móvil y escritorio.
 ✔️ Código organizado y fácil de entender.
-
+´
 ## 🎯 Tecnologías utilizadas
 .HTML5
 .CSS3 (diseño responsivo)
