@@ -16,13 +16,13 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 ✔️ Totalmente responsivo para móvil y escritorio.
 ✔️ Código organizado y fácil de entender.
 
-#🎯 Tecnologías utilizadas
+## 🎯 Tecnologías utilizadas
 .HTML5
 .CSS3 (diseño responsivo)
 .JavaScript (lógica del juego)
 .SweetAlert2 (alertas personalizadas)
 
-#🎮 Cómo jugar
+## 🎮 Cómo jugar
 1.Cuando cargue la página, elige una dificultad.
 2.Selecciona tu movimiento:
 👊 Piedra | 📄 Papel | ✂️ Tijera
@@ -31,7 +31,7 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 5.Llega al número de rondas necesarias para ganar la partida.
 6.¡Vuelve a jugar! 🎉
 
-# 🛠️ Cómo ejecutarlo
+## 🛠️ Cómo ejecutarlo
 1.Descarga o clona el repositorio:
 bash
 git clone https://github.com/TU_USUARIO/TU_REPO.git
