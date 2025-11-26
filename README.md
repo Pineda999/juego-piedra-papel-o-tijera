@@ -23,16 +23,16 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 - **SweetAlert2** (alertas personalizadas)
 
 ## 🎮 Cómo jugar
-1.Cuando cargue la página, elige una dificultad.
-2.Selecciona tu movimiento:
+1. Cuando cargue la página, elige una dificultad.
+2. Selecciona tu movimiento:
 👊 Piedra | 📄 Papel | ✂️ Tijera
-3.La máquina hará su jugada.
-4.Observa si ganaste, perdiste o empataste.
-5.Llega al número de rondas necesarias para ganar la partida.
-6.¡Vuelve a jugar! 🎉
+3. La máquina hará su jugada.
+4. Observa si ganaste, perdiste o empataste.
+5. Llega al número de rondas necesarias para ganar la partida.
+6. ¡Vuelve a jugar! 🎉
 
 ## 🛠️ Cómo ejecutarlo
-1.Descarga o clona el repositorio:
+1. Descarga o clona el repositorio:
 bash
 git clone https://github.com/TU_USUARIO/TU_REPO.git
 
