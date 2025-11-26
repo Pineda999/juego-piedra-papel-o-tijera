@@ -6,9 +6,9 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 ## 🚀 Características del juego
 <ul>
   <li>✔️ Tres dificultades a elegir:</li>
-     <br><b>Fácil</b> (aleatorio puro).
+       <b>Fácil</b> (aleatorio puro).
      <br><b>Medio</b> (30% de ventaja para la máquina).
-     <b>Difícil</b> (70% de ventaja para la máquina 😈).
+     <br><b>Difícil</b> (70% de ventaja para la máquina 😈).
   <li>✔️ Animaciones con SweetAlert2.</li>
   <li>✔️ Sistema de puntuación por rondas.</li>
   <li>✔️ Gifs personalizados al ganar, perder o empatar.</li>
