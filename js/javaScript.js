@@ -9,17 +9,17 @@ function elegirDificultad(){
    Swal.fire({
         title: "Selecciona la dificultad",
         html: `
-            <div style="display:flex; justify-content:space-around; gap:20px; margin-top:20px;">
+            <div class="dificultad-container">
 
-                <button id="btnFacil" class="swal2-confirm swal2-styled" style="background:#4CAF50;">
+                <button id="btnFacil" class="dif-btn nivel-medio" style="background:#4CAF50;">
                     😄 Fácil
                 </button>
 
-                <button id="btnMedio" class="swal2-confirm swal2-styled" style="background:#FFC107;"> 
+                <button id="btnMedio" class="dif-btn nivel-medio" style="background:#FFC107;"> 
                     😎 Medio
                 </button>
 
-                <button id="btnDificil" class="swal2-confirm swal2-styled" style="background:#F44336;">
+                <button id="btnDificil" class="dif-btn nivel-medio"" style="background:#F44336;">
                     😈 Difícil
                 </button>
             </div>
