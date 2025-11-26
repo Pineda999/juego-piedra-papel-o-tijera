@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/javaScript.js" defer></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Proyecto</title>
+</head>
+<body>
+    <main>
+        <h1 id="titulo">Piedra, Papel o Tijera</h1>
+
+        <section id="content-boton">
+
+            <a onclick="partida('piedra')" id="bton-piedra">
+                <img src="img/piedra.png" class="iconones">
+            </a>
+
+            <a onclick="partida('papel')" id="bton-papel">
+                <img src="img/papel.png" class="iconones">
+            </a>
+
+            <a onclick="partida('tijera')" id="bton-tijera">
+                <img src="img/tijera.png" class="iconones">
+            </a>
+        </section>
+
+        <section id="content-rondaGa">
+            <p>
+                Usuario:
+                <span id="ganadoruser">0</span>
+            </p>
+
+            <p>
+                Maquina: 
+                <span id="ganadormaquina">0</span>
+            </p>
+        </section>
+    </main>
+</body>
+</html>
