@@ -4,11 +4,11 @@ Incluye un sistema de dificultades, conteo de rondas y gifs animados según el r
 Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 
 ## 🚀 Características del juego
-<ul style="list-style:none;">
+<ul>
   <li>✔️ Tres dificultades a elegir:</li>
-- **Fácil** (aleatorio puro).
-- **Medio** (30% de ventaja para la máquina).
-- **Difícil** (70% de ventaja para la máquina 😈).
+   <b>Fácil</b> (aleatorio puro).
+   Medio (30% de ventaja para la máquina).
+   Difícil (70% de ventaja para la máquina 😈).
   <li>✔️ Animaciones con SweetAlert2.</li>
   <li>✔️ Sistema de puntuación por rondas.</li>
   <li>✔️ Gifs personalizados al ganar, perder o empatar.</li>
