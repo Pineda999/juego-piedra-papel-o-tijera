@@ -17,10 +17,10 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 ✔️ Código organizado y fácil de entender.
 
 ## 🎯 Tecnologías utilizadas
-.HTML5
-.CSS3 (diseño responsivo)
-.JavaScript (lógica del juego)
-.SweetAlert2 (alertas personalizadas)
+- **HTML5**
+- **CSS3** (diseño responsivo)
+- **JavaScript** (lógica del juego)
+- **SweetAlert2** (alertas personalizadas)
 
 ## 🎮 Cómo jugar
 1.Cuando cargue la página, elige una dificultad.
