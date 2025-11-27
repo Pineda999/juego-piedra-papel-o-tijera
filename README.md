@@ -34,8 +34,16 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 
 ## 🛠️ Cómo ejecutarlo
 1. Descarga o clona el repositorio:
-bash
+```bash
 git clone https://github.com/TU_USUARIO/TU_REPO.git
+```
+2. Abre el archivo:
+```bash
+index.html
+```
+3. ¡Listo! No requiere instalación de nada más. 💥
+
+## 📂 Estructura del proyecto
 
 ## 👨‍💻 Autor
 Pineda999
