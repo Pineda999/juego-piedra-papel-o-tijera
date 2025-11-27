@@ -1,7 +1,7 @@
 # 👊📄✂️ Piedra, Papel o Tijera – Juego Interactivo
 Un juego clásico desarrollado con HTML, CSS y JavaScript, totalmente interactivo y con animaciones usando SweetAlert2.
 Incluye un sistema de dificultades, conteo de rondas y gifs animados según el resultado.
-Perfecto para practicar lógica, DOM y diseño responsivo.🎮
+Perfecto para practicar lógica, DOM y diseño responsivo 🎮.
 
 ## 🚀 Características del juego
 <ul>
@@ -18,19 +18,19 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 </ul>
 
 ## 🎯 Tecnologías utilizadas
-- **HTML5**
-- **CSS3** (diseño responsivo)
-- **JavaScript** (lógica del juego)
-- **SweetAlert2** (alertas personalizadas)
+- **HTML5**.
+- **CSS3** (diseño responsivo).
+- **JavaScript** (lógica del juego).
+- **SweetAlert2** (alertas personalizadas).
 
 ## 🎮 Cómo jugar
 1. Cuando cargue la página, elige una dificultad.
 2. Selecciona tu movimiento:
-👊 Piedra | 📄 Papel | ✂️ Tijera
+👊 Piedra | 📄 Papel | ✂️ Tijera.
 3. La máquina hará su jugada.
 4. Observa si ganaste, perdiste o empataste.
 5. Llega al número de rondas necesarias para ganar la partida.
-6. ¡Vuelve a jugar! 🎉
+6. ¡Vuelve a jugar! 🎉.
 
 ## 🛠️ Cómo ejecutarlo
 1. Descarga o clona el repositorio:
@@ -44,7 +44,24 @@ index.html
 3. ¡Listo! No requiere instalación de nada más. 💥
 
 ## 📂 Estructura del proyecto
-
+```bash
+/
+├── css/
+│   └── style.css
+├── img/
+│   ├── piedra.png
+│   ├── papel.png
+│   ├── tijera.png
+│   ├── user.gif
+│   ├── ganadoruser.gif
+│   ├── ganadormaqui.gif
+│   ├── gameover.gif
+│   ├── burla.gif
+│   ├── aprenton.gif
+├── js/
+│   └── javaScript.js
+└── index.html
+```
 ## 👨‍💻 Autor
 Pineda999
 Desarrollador Web – Frontend
