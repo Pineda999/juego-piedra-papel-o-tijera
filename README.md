@@ -45,7 +45,7 @@ index.html
 
 ## 📂 Estructura del proyecto
 ```bash
-/
+piedrapapelotijera/
 ├── css/
 │   └── style.css
 ├── img/
@@ -66,3 +66,7 @@ index.html
 Pineda999
 Desarrollador Web – Frontend
 🇸🇻 El Salvador
+
+## 📄 Licencia
+Este proyecto está licenciado bajo la **Licencia MIT**, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente, tanto para fines personales como comerciales.  
+Solo se requiere mantener la atribución al autor original.
