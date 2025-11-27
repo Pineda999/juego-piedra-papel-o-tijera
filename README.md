@@ -5,16 +5,16 @@ Perfecto para practicar lógica, DOM y diseño responsivo.🎮
 
 ## 🚀 Características del juego
 <ul>
-  <li>✔️ Tres dificultades a elegir:</li>
-       <b>Fácil</b> (aleatorio puro).
-     <br><b>Medio</b> (30% de ventaja para la máquina).
-     <br><b>Difícil</b> (70% de ventaja para la máquina 😈).
-  <li>✔️ Animaciones con SweetAlert2.</li>
-  <li>✔️ Sistema de puntuación por rondas.</li>
-  <li>✔️ Gifs personalizados al ganar, perder o empatar.</li>
-  <li>✔️ Reset automático al terminar la partida.</li>
-  <li>✔️ Totalmente responsivo para móvil y escritorio.</li>
-  <li>✔️ Código organizado y fácil de entender.</li>
+  <li>Tres dificultades a elegir:</li>
+       ✔️<b>Fácil</b> (aleatorio puro).
+     <br>✔️<b>Medio</b> (30% de ventaja para la máquina).
+     <br>✔️<b>Difícil</b> (70% de ventaja para la máquina 😈).
+  <li>Animaciones con SweetAlert2.</li>
+  <li>Sistema de puntuación por rondas.</li>
+  <li>Gifs personalizados al ganar, perder o empatar.</li>
+  <li>Reset automático al terminar la partida.</li>
+  <li>Totalmente responsivo para móvil y escritorio.</li>
+  <li>Código organizado y fácil de entender.</li>
 </ul>
 
 ## 🎯 Tecnologías utilizadas
