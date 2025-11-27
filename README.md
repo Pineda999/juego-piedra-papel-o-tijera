@@ -63,8 +63,8 @@ piedrapapelotijera/
 └── index.html
 ```
 ## 👨‍💻 Autor
-Pineda999.
-Desarrollador Web – Frontend.
+Pineda999.<br>
+Desarrollador Web – Frontend.<br>
 🇸🇻 El Salvador.
 
 ## 📄 Licencia
