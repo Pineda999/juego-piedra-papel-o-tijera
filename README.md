@@ -63,10 +63,10 @@ piedrapapelotijera/
 └── index.html
 ```
 ## 👨‍💻 Autor
-Pineda999
-Desarrollador Web – Frontend
-🇸🇻 El Salvador
+Pineda999.
+Desarrollador Web – Frontend.
+🇸🇻 El Salvador.
 
 ## 📄 Licencia
-Este proyecto está licenciado bajo la **Licencia MIT**, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente, tanto para fines personales como comerciales.  
+Este proyecto está bajo la **Licencia MIT**, puedes usarlo, modificarlo y distribuirlo libremente, tanto para fines personales como comerciales.  
 Solo se requiere mantener la atribución al autor original.
