@@ -58,6 +58,7 @@ piedrapapelotijera/
 │   ├── tijera.png
 │   ├── user.gif
 │   ├── ganadoruser.gif
+│   ├── iconofin.png
 │   ├── ganadormaqui.gif
 │   ├── gameover.gif
 │   ├── burla.gif
