@@ -91,7 +91,7 @@ function maquinaMedio(){
         if (jugador === "tijera") return "piedra";
     }
 
-    // 70% de random para que parezca humano
+    // 70% de random
 
     const opciones= ["piedra","papel","tijera"];
     return opciones[Math.floor(Math.random() * 3)];
@@ -108,7 +108,7 @@ function maquinaSuperDificil(){
         if (jugador === "tijera") return "piedra";
     }
 
-    // 30% de random para que parezca humano
+    // 30% de random
 
     const opciones= ["piedra","papel","tijera"];
     return opciones[Math.floor(Math.random() * 3)];
@@ -149,12 +149,13 @@ function ganador(maquina){
     }
 }
 
-/* Puntuacion de la maquina y el usuario en cada ronda*/
+/* Puntuacion de la maquina en cada ronda*/
 function puntosMaquina(){
     const Ganador = document.getElementById("ganadormaquina");
     Ganador.innerHTML = contadorMaquina +=1;
 }
 
+/* Puntuacion del usuario en cada ronda*/
 function puntosUsuario(){
     const ronda = document.getElementById('ganadoruser');
         ronda.innerHTML = contadorUser+=1;
