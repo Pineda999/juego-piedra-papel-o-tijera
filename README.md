@@ -2,7 +2,7 @@
 Un juego clásico desarrollado con HTML, CSS y JavaScript, totalmente interactivo y con animaciones usando SweetAlert2.
 Incluye un sistema de dificultades, conteo de rondas y gifs animados según el resultado.
 Perfecto para practicar lógica, DOM y diseño responsivo 🎮.
-<img width="770" height="531" alt="image" src="https://github.com/user-attachments/assets/7888d831-9247-433d-be19-d6172c99dabe" />
+<img width="572" height="490" alt="image" src="https://github.com/user-attachments/assets/7888d831-9247-433d-be19-d6172c99dabe" />
 <img width="572" height="490" alt="image" src="https://github.com/user-attachments/assets/58d88102-f9ea-4e41-92be-8268b4490580" />
 
 
